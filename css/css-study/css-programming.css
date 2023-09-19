@@ -1,0 +1,32 @@
+/* cssのみでアニメーションする場合 */
+/* #heading {
+    animation: rotation 2s linear infinite alternate none running;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotateX(0deg);
+    }
+
+    100% {
+        transform: rotateX(360deg);
+    }
+} */
+
+/* .face {
+    color: darkblue;
+}
+
+.back {
+    color: lightgray;
+} */
+
+/* 練習 */
+.face {
+    color: red;
+}
+
+.back {
+    color: red;
+    opacity: 0.4;
+}
